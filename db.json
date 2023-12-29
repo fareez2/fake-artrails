@@ -1,0 +1,209 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nama": "Replika mesin padi",
+            "images": [
+                "https://picsum.photos/id/1/1000/800",
+                "https://picsum.photos/id/11/1000/800",
+                "https://picsum.photos/id/12/1000/800"
+            ],
+            "location": {
+                "long": 100.0000000000,
+                "lat": 5.5700000000
+            },
+            "googleMaps": "https://www.google.com/maps/dir//5.567888888888889,100.42886111111112",
+            "msDescription": "Replika mesin padi bersaiz sebenar berlatarbelakangkan sawah padi menunjukkan Kedah merupakan negeri yang terkenal dengan jelapang padi ini.",
+            "enDescription": "A replica of a real -size paddy machine against the backdrop of paddy fields shows that Kedah is a state that is famous for this paddy granary. ",
+            "bahan": "Besi",
+            "daerah": "Kuala Terengganu",
+            "Negeri": "Terengganu"
+        },
+        {
+            "id": 2,
+            "nama": "Lukisan Jalanan Georgetown",
+            "images": [
+                "https://picsum.photos/id/2/1000/800",
+                "https://picsum.photos/id/21/1000/800",
+                "https://picsum.photos/id/22/1000/800"
+            ],
+            "location": {
+                "long": 100.337080,
+                "lat": 5.414500
+            },
+            "googleMaps": "",
+            "msDescription": "Lukisan dinding interaktif di jalanan Georgetown yang menceritakan sejarah dan budaya Pulau Pinang.",
+            "enDescription": "Interactive street murals in Georgetown depicting the history and culture of Penang.",
+            "bahan": "Cat Akrilik",
+            "daerah": "Georgetown",
+            "Negeri": "Penang"
+        },
+        {
+            "id": 3,
+            "nama": "Patung Harmoni Kuala Lumpur",
+            "images": [
+                "https://picsum.photos/id/3/1000/800",
+                "https://picsum.photos/id/23/1000/800",
+                "https://picsum.photos/id/13/1000/800"
+            ],
+            "location": {
+                "long": 101.686855,
+                "lat": 3.139003
+            },
+            "googleMaps": "",
+            "msDescription": "Patung abstrak yang menggambarkan keharmonian pelbagai budaya di Kuala Lumpur.",
+            "enDescription": "An abstract sculpture representing the harmony of diverse cultures in Kuala Lumpur.",
+            "bahan": "Batu Marmar",
+            "daerah": "Kuala Lumpur",
+            "Negeri": "Wilayah Persekutuan Kuala Lumpur"
+        },
+        {
+            "id": 4,
+            "nama": "Taman Seni Batik Melaka",
+            "images": [
+                "https://picsum.photos/id/89/1000/800"
+            ],
+            "location": {
+                "long": 102.240280,
+                "lat": 2.189594
+            },
+            "googleMaps": "",
+            "msDescription": "Taman yang mempamerkan kerajinan batik tradisional Melaka dengan pelbagai corak dan warna.",
+            "enDescription": "A park showcasing the traditional Melaka batik craftsmanship with various patterns and colors.",
+            "bahan": "Kain Batik",
+            "daerah": "Melaka Tengah",
+            "Negeri": "Melaka"
+        },
+        {
+            "id": 5,
+            "nama": "Monumen Perak Sungai Petani",
+            "images": [],
+            "location": {
+                "long": 100.487211,
+                "lat": 5.645690
+            },
+            "googleMaps": "",
+            "msDescription": "Monumen yang terinspirasi dari sungai dan pertanian di Perak.",
+            "enDescription": "A monument inspired by the rivers and agriculture of Perak.",
+            "bahan": "Besi, Batu",
+            "daerah": "Kinta",
+            "Negeri": "Perak"
+        },
+        {
+            "id": 6,
+            "nama": "Jambatan Seni Langkawi",
+            "images": [
+                "https://picsum.photos/id/55/1000/800",
+                "https://picsum.photos/id/121/1000/800",
+                "https://picsum.photos/id/112/1000/800"
+            ],
+            "location": {
+                "long": 99.812490,
+                "lat": 6.350000
+            },
+            "googleMaps": "",
+            "msDescription": "Jambatan pejalan kaki dengan hiasan seni yang menawan di Langkawi.",
+            "enDescription": "An artistic pedestrian bridge with captivating decorations in Langkawi.",
+            "bahan": "Besi, Kaca",
+            "daerah": "Langkawi",
+            "Negeri": "Kedah"
+        },
+        {
+            "id": 7,
+            "nama": "Pusat Kraf Sarawak",
+            "images": [
+                "https://picsum.photos/id/18/1000/800",
+                "https://picsum.photos/id/118/1000/800",
+                "https://picsum.photos/id/182/1000/800"
+            ],
+            "location": {
+                "long": 110.345490,
+                "lat": 1.557400
+            },
+            "googleMaps": "",
+            "msDescription": "Pusat yang mempamerkan dan menjual kraf tangan tradisional Sarawak.",
+            "enDescription": "A center displaying and selling traditional Sarawak handcrafts.",
+            "bahan": "Kayu, Rotan",
+            "daerah": "Kuching",
+            "Negeri": "Sarawak"
+        },
+        {
+            "id": 8,
+            "nama": "Tugu Kebudayaan Johor Bahru",
+            "images": [
+                "https://picsum.photos/id/9/1000/800",
+                "https://picsum.photos/id/191/1000/800",
+                "https://picsum.photos/id/19/1000/800"
+            ],
+            "location": {
+                "long": 103.743675,
+                "lat": 1.492659
+            },
+            "googleMaps": "",
+            "msDescription": "Tugu yang meraikan kebudayaan dan sejarah Johor Bahru.",
+            "enDescription": "A monument celebrating the culture and history of Johor Bahru.",
+            "bahan": "Besi, Kaca",
+            "daerah": "Johor Bahru",
+            "Negeri": "Johor"
+        },
+        {
+            "id": 9,
+            "nama": "Muzium Seni Digital Sabah",
+            "images": [
+                "https://picsum.photos/id/101/1000/800",
+                "https://picsum.photos/id/112/1000/800"
+            ],
+            "location": {
+                "long": 116.075310,
+                "lat": 5.978840
+            },
+            "googleMaps": "",
+            "msDescription": "Muzium yang mempamerkan karya seni digital yang interaktif dan inovatif di Sabah.",
+            "enDescription": "A museum featuring interactive and innovative digital art in Sabah.",
+            "bahan": "Teknologi Digital",
+            "daerah": "Kota Kinabalu",
+            "Negeri": "Sabah"
+        },
+        {
+            "id": 10,
+            "nama": "Skulptur Bambu Putrajaya",
+            "images": [
+                "https://picsum.photos/id/69/1000/800",
+                "https://picsum.photos/id/188/1000/800",
+                "https://picsum.photos/id/123/1000/800"
+            ],
+            "location": {
+                "long": 101.693207,
+                "lat": 2.926361
+            },
+            "googleMaps": "",
+            "msDescription": "Skulptur bambu besar yang menampilkan keindahan alam dan keunikan Putrajaya.",
+            "enDescription": "A large bamboo sculpture showcasing the beauty of nature and the uniqueness of Putrajaya.",
+            "bahan": "Bambu",
+            "daerah": "Putrajaya",
+            "Negeri": "Wilayah Persekutuan Putrajaya"
+        },
+        {
+            "id": 11,
+            "nama": "Galeri Seni Pantai Timur",
+            "images": [
+                "https://picsum.photos/id/143/1000/800",
+                "https://picsum.photos/id/141/1000/800",
+                "https://picsum.photos/id/152/1000/800"
+            ],
+            "location": {
+                "long": 103.425755,
+                "lat": 3.816667
+            },
+            "googleMaps": "",
+            "msDescription": "Galeri yang mempamerkan karya seni dari seniman terkenal di pantai timur Malaysia.",
+            "enDescription": "A gallery exhibiting artworks by famous artists from the east coast of Malaysia.",
+            "bahan": "Cat Minyak, Kanvas",
+            "daerah": "Kuantan",
+            "Negeri": "Pahang"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
